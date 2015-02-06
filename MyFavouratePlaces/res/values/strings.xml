@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Favourate Places</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="register">Register</string>
+    <string name="retrieved">Retrieved</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_retrived">RetrivedActivity</string>
+    <string name="takephoto">Take Photo</string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+    <string name="exit">Exit</string>
+    <string name="content">Content</string>
+    <string name="latlon">Your Current Position is:\nLatitude:\nLongitude:</string>
+    <string name="remarks">Remarks</string>
+    <string name="save">Save</string>
+    
+
+</resources>
